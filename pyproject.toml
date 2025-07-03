@@ -1,0 +1,11 @@
+[project]
+name = "multi-step-multi-model-workflow"
+version = "1.0.0"
+description = "Multi model and multi step AI workflow"
+requires-python = ">=3.11"
+readme = "README.md"
+dependencies = [
+    "openai>=1.91.0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+]
