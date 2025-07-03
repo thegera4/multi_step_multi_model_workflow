@@ -1,0 +1,10 @@
+[
+  {
+    "topic": "Cookies in flutter web topic",
+    "post": "🍪 Cookies help you save information in the web browser so that you can access it in your applications or send them to a server to validate request. In Flutter web, we can use the `dart:html` library to manage cookies. In this post we will explore how to set, get, and delete cookies in a Flutter web application."
+  },
+  {
+    "topic": "Application deployment in Railway",
+    "post": "🚀 Railway is a cloud platform that allows you to deploy applications easily. In this post, we will go through the steps to deploy a web application on Railway. We will cover how to set up your project, configure the deployment settings, and manage your application once it is live."
+  }
+]
