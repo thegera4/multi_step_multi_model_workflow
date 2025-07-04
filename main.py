@@ -1,3 +1,6 @@
+# This is a multimodel and multistep AI workflow to generate engaging posts for X (Twitter) based on a website content.
+# This script fetches a website's HTML, extracts the core content, summarizes it, and generates a post for X.
+# This script uses the DeepSek Chat and Reasoning AI models to perform the tasks.
 import os
 import json
 from openai import OpenAI
